@@ -1,0 +1,11 @@
+#primeContainer {
+    width: 80%;
+    border: solid 1px black;
+    padding: 3px;
+    height: 300px;
+    max-width: 500px;
+    overflow: scroll;
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
